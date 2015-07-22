@@ -1,4 +1,4 @@
-# verlperl
+# veriperl
 
 1) embedded perl interpreter:
 
